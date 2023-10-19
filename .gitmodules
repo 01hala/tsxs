@@ -1,0 +1,3 @@
+[submodule "TianShiXS"]
+	path = TianShiXS
+	url = git@github.com:guanliu123/TianShiXS.git
